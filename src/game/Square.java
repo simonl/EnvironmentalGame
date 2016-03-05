@@ -1,0 +1,10 @@
+public enum Square {
+	PLAYER,
+	EMPTY,
+	BLOCK,
+	TREE,
+	FIRE,
+	CHEST_SMASH,
+	CHEST_SPARK,
+	CHEST_BOMB
+}
